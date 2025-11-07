@@ -2,6 +2,8 @@
   import data from './data.json';
   let query = '';
 
+  $: data.sort((a, b) => a.name.localeCompare(b.name));
+
   $: results = data
     .filter(d => matchesAllWords(d.name, query))
     .map(d => ({
