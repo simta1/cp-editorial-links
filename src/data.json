@@ -88,6 +88,10 @@
     "link": "https://swerc.eu/2025/content/"
   },
   {
+    "name": "NEERC",
+    "link": "https://neerc.ifmo.ru/past/2006.html"
+  },
+  {
     "name": "COCI(Croatian Open Competition in Informatics) 2006/2007",
     "link": "https://hsin.hr/coci/archive/2006_2007/"
   },
@@ -158,6 +162,26 @@
   {
     "name": "COCI(Croatian Open Competition in Informatics) 2023/2024",
     "link": "https://hsin.hr/coci/archive/2023_2024/"
+  },
+  {
+    "name": "CEOI(Central European Olympiad in Informatics) 2014",
+    "link": "http://ceoi.inf.elte.hu/probarch/14/"
+  },
+  {
+    "name": "SEERC(Southeastern European Regional Contest) 2020",
+    "link": "https://drive.google.com/file/d/13WApgof_TR5W-pokndhBQiqdny9wggVw/view"
+  },
+  {
+    "name": "Pacific Northwest Region Programming Contest",
+    "link": "http://acmicpc-pacnw.org/results.htm"
+  },
+  {
+    "name": "IOI(International Olympiad in Informatics) 2009",
+    "link": "https://ioinformatics.org/page/ioi-2009/35"
+  },
+  {
+    "name": "The 2025 ICPC Asia Jakarta Regional Contest",
+    "link": "https://competition.binus.ac.id/icpc2025/icpc_analysis.pdf"
   },
   {
     "name": "2014 KAIST 4th ICPC Mock Competition",
